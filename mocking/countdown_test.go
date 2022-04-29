@@ -1,4 +1,4 @@
-package countdown
+package main
 
 import (
 	"bytes"
