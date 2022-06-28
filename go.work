@@ -10,5 +10,6 @@ use (
 	./maps
 	./mocking
 	./pointers
+	./select
 	./structs
 )
